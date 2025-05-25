@@ -8,3 +8,7 @@ This repository was automatically created using the Cursor IDE's integrated GitH
 2.  Using the GitHub MCP server tool, a new public repository named "automatic-repo-creation-from-cursor" was created under my account.
 
 This interaction is powered by the GitHub Model Context Protocol (MCP) server. You can find more information about the GitHub MCP server repository here: [https://github.com/github/github-mcp-server](https://github.com/github/github-mcp-server)
+
+**Proof (added manually):**
+
+<img width="547" alt="image" src="https://github.com/user-attachments/assets/b65c9942-926a-4fa6-8ada-0c3abb19aa69" />
